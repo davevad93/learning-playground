@@ -1,2 +1,5 @@
-# learning-playground
-Just a repo about things I'm learning.
+# Learning Playground
+
+This is just a repo for learning and testing purposes, generally about programming languages I'm learning.
+<br>
+Nothing too important or mindblowing.
